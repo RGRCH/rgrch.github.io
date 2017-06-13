@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Useful information 
 
-You can use the [editor on GitHub](https://github.com/RGRCH/rgrch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my github repository, you can find all about teaching, lectures, research, thesis topics, and all related with FPGA, microntrollers, electronics, contrl and instrumentation as well as digital signal processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
